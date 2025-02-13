@@ -1,6 +1,4 @@
-<img width="1200" alt="multitool-github-2" src="https://github.com/user-attachments/assets/437bb883-1c23-4410-b948-354494099917">
+<img width="1200" alt="gh-multi-banner-2" src="https://github.com/user-attachments/assets/43ec8b3f-9443-4b64-a737-906b82fd80f4" />
 
 # MultiTool is built by Wack
-Inspired by the principles of Infrastructure-as-Code, MultiTool uses structured code to define and manage deployment platforms. MultiTool gives operators and developers the power of a self-tailored PaaS, all within their preferred cloud environment.
-
-[**MultiTool Canary**](https://github.com/wack/canary) is the first "platform primitive" for MultiTool. Leverage agentic deployments for seamless, risk-managed rollouts.
+Smarter software rollouts with agentic deployments. Scale releases confidently while minimizing risk and service disruptions.
